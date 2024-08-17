@@ -6,7 +6,6 @@ Welcome to my first website project for The Odin Project's learning path. This w
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Usage](#usage)
 
 ## Introduction
 
