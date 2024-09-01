@@ -1,8 +1,36 @@
-h1 {
-    font-family: 'Courier New', Courier, monospace;
+* {
+    box-sizing: border-box;
+}*
+
+* {
+    margin: 0;
+    padding: 0;
 }
 
+body {
+    background-color: #172038;
+}
+
+.main-card {
+    width: 1700px;
+    height: 1292px;
+    margin: 0 auto;
+    padding: 25px 100px 100px 100px;
+    background-color: #202A44;
+}
+
+.landing-title,
+.recipes-list,
 a {
-    color: #dc143c;
-    font-size: large;
+    color: white;
+}
+
+.landing-title {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.recipes-list {
+    padding: 15px;
+    font-size: 18px;
 }

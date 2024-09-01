@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #172038;
+}
+
+.main-card {
+    width: 1700px;
+    height: 1950px;
+    margin: 0 auto;
+    padding: 25px 100px 100px 100px;
+    background-color: #202A44;
+    color: white;
+}
